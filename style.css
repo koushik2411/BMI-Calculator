@@ -5,7 +5,7 @@
 }
 
 body {
-    min-height: 100vh;
+    min-height: 75vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -13,7 +13,7 @@ body {
 }
 
 .box {
-    width: 65vw;
+    width: 70vw;
     height: 300px;
     border: 2px solid #40e5d7;
     background: linear-gradient(145deg, #e3f4f6c2, #85d7d2e7);
@@ -51,4 +51,5 @@ button:active {
     height: 48px;
     width: 80%;
     text-align: center;
+
 }
